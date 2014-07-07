@@ -1,0 +1,6 @@
+Chekc this code out
+
+while(head != exploded)
+{
+ bangonwall(head)
+}
